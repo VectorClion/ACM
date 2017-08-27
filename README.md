@@ -1,2 +1,1 @@
-# ACM
-OpenJudge &amp; USACO
+# Intersecting puzzle records
