@@ -1,1 +1,1 @@
-# Intersecting puzzle records
+># Interesting puzzles recording
